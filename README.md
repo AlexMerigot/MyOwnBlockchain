@@ -18,3 +18,13 @@ Block Back-end :
 - Developed the important sha-256 hash function.
 
 - Applied the hash to mine a block.
+
+Chain Back-end :
+
+- Created the fundamental blockchain class.
+
+- Developed functionality to validate the blockchain, to allow for chain replacement.
+
+- Implemented chain replacement.
+
+- Investigated stubbing console output in tests to keep the output clean.
