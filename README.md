@@ -28,3 +28,11 @@ Chain Back-end :
 - Implemented chain replacement.
 
 - Investigated stubbing console output in tests to keep the output clean.
+
+Proof-of-work Back-end : 
+
+- Implemented the proof of work system by adding a difficulty and nonce value to each block.
+
+- Adjusted the difficulty for a block to ensure that blocks are mined at a rate which approaches a set mining rate for the system.
+
+- Investigated the proof of work system by writing a script which checked how will the dynamic difficulty adjusted the system to approach the mine rate.
